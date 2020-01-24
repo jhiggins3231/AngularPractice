@@ -1,0 +1,11 @@
+.intro {
+    font-size: 18px;
+    color: white;
+}
+.card {
+    background-color: teal;
+    margin: 20px;
+    display: flex;
+    width: 50vw;
+    height: 20vh;
+}
